@@ -1,8 +1,8 @@
 // Strings
 
-var fName = Robert
-var mName= Matthew
-var lName = Walter
+var fName = "Robert"
+var mName= "Matthew"
+var lName = "Walter"
 
 // Numbers
 
@@ -15,3 +15,13 @@ var weight = 260
 var married = true
 var employed = false
 var hopeful = true
+
+
+var fName = "Kerri"
+var mName = "Lynn"
+var lName = "Taylor"
+
+
+console.log(fName);
+console.log(lName);
+console.log(married);
